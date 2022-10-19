@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Anthony Denis
-*🔭 I’m currently working on Javascript ( Reacts )
+🔭 I’m currently working on Javascript ( Reacts )
 
 
 *L’informatique n’est qu’un outil, comme un pinceau ou un crayon.*
