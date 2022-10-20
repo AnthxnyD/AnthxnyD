@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Anthony Denis
-🔭 I’m currently working on Javascript ( Reacts )
+🔭 I’m currently working on Javascript ( Reacts ) 
 
 
 *L’informatique n’est qu’un outil, comme un pinceau ou un crayon.*
@@ -9,10 +9,9 @@
 
 ## Tables
 
-| Left columns  | Right columns |
-| ------------- |:-------------:|
 | Birthday :      | 12/11/1997    |
 | Gender :      | Male     |
+| Age :      | 24     |
 | Favorite color ? :    | Blue    |
 | Favorite food: ? :      | English Breakfast
 | Pinneapple on pizza :      | <input type="checkbox" disabled /> Oui <input type="checkbox" disabled checked /> Non
