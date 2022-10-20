@@ -15,10 +15,9 @@
 | Age :      | 24     |
 | Favorite color ? :    | Blue    |
 | Favorite food: ? :      | English Breakfast
-| Pinneapple on pizza :      | <input type="checkbox" disabled /> Oui <input type="checkbox" disabled checked /> Non
 
 ## Hobies
-    
+
 - Sport :
      - Musculation
      - Course
