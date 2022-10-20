@@ -22,18 +22,11 @@
 
 ### Qui je suis ? alors je ne pourrais résumé ce qui me caractérise en ces quelques phrases, mais les indices pour vous aiguiller sont les suivantes : Honnête , Travailleur et avec un certain sens de l'humour...
 
-## Tables
-| Informations | Données |
-| ------------- |:-------------:|
-| Birthday :      | 12/11/1997    |
-| Gender :      | Male     |
-| Age :      | 24     |
-| Favorite color ? :    | Blue    |
-| Favorite food: ? :      | English Breakfast
+## Informations
 
 | Birthday | Gender | Age | Favorite food | Favorite color |
 |:--------:|:------:|:--------------:|:-------------:|:------------------:|
-| 12/11/1997   | M       | 24            |English Breakfast          |Blue |
+| 12/11/1997   | Male     | 24           |English Breakfast          |Blue |
 
 ## Hobies
 
