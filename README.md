@@ -31,6 +31,10 @@
 | Favorite color ? :    | Blue    |
 | Favorite food: ? :      | English Breakfast
 
+| Birthday | Gender | Age | Favorite food | Favorite color |
+|:--------:|:------:|:--------------:|:-------------:|:------------------:|
+| 12/11/1997   | M       | 24            |English Breakfast          |Blue |
+
 ## Hobies
 
 - Sport :
