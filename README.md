@@ -1,7 +1,20 @@
 ### Hi there 👋
 # Anthony Denis
 
-🔭 I’m currently working on Javascript ( Reacts ) 
+Jeune homme en formation de développement web à Becode depuis juin 2022 
+Je recherche activement un stage en tant que développeur Front-End à partir de février 2023.
+
+Je suis quelqu’un de créatif , autonome , curieux . Durant ce stage, je souhaite mettre mon savoir-faire et mon savoir-être au service d’une entreprise qui correspond à mes valeurs et attentes.
+
+En ce moment, je me forme sur :
+
+▶️ NodeJs
+▶️ TypeScript
+▶️ React
+
+Mon profil vous intéresse ?
+
+Vous pouvez me contacter par mail : anthony.denis.becode@gmail.com ou via la messagerie LinkedIn.
 
 ## Formation
 🎓 [Becode.org](https://becode.org/fr/) 
@@ -26,7 +39,7 @@
 
 | Birthday | Gender | Age | Favorite food | Favorite color |
 |:--------:|:------:|:--------------:|:-------------:|:------------------:|
-| 12/11/1997   | Male     | 24           |English Breakfast          |Blue |
+| 12/11/1997   | Male     | 25           |English Breakfast          |Blue |
 
 ## Hobies
 
