@@ -1,20 +1,20 @@
 ### Hi there 👋
 # Anthony Denis
 
-Jeune homme en formation de développement web à Becode depuis juin 2022 
-Je recherche activement un stage en tant que développeur Front-End à partir de février 2023.
+Young man training for web development in Becode from June 2022 
+I am actively looking for an internship as a Front-End developer from February 2023.
 
-Je suis quelqu’un de créatif , autonome , curieux . Durant ce stage, je souhaite mettre mon savoir-faire et mon savoir-être au service d’une entreprise qui correspond à mes valeurs et attentes.
+I am a creative, autonomous and curious person. During this internship, I would like to put my know-how and my interpersonal skills at the service of a company that corresponds to my values and expectations.
 
-En ce moment, je me forme sur :
+At the moment, I am training on :
 
 ▶️ NodeJs
 ▶️ TypeScript
 ▶️ React
 
-Mon profil vous intéresse ?
+Are you interested in my profile?
 
-Vous pouvez me contacter par mail : anthony.denis.becode@gmail.com ou via la messagerie LinkedIn.
+You can contact me by email: anthony.denis.becode@gmail.com or via LinkedIn.
 
 ## Formation
 🎓 [Becode.org](https://becode.org/fr/) 
